@@ -4,7 +4,7 @@
 
 ① 제목(type), 본문(body), 꼬리말(footer)로 구성합니다.<br />
 ② 제목(type)에는 중요도에 따라 [gitmoji](https://gitmoji.dev/)를 1~3개 사용합니다.<br />
-③ 각 부분은 공백으로 구분합니다.<br />
+③ 각 부분은 줄바꿈으로 구분합니다.<br />
 
 **ex)**<br />
 **Feat :art:: TodoController create 기능 구현**
