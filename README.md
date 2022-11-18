@@ -33,7 +33,7 @@ type | description |
  |Style :pencil2:| 사소한 코드 변경 |
  |BREAKING :zap:| 커다란 API 변경 |
  |Refactor 🔨| 리팩토링 |
- |Test :monocle_face:| 테스트 작업 |
+ |Test :white_check_mark:| 테스트 작업 |
  |Rename :card_file_box:| 파일, 폴더명 수정 |
  |Remove :wastebasket:| 파일 삭제 |
  |Chore :technologist:| 기타 사소한 작업 |
