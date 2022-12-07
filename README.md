@@ -37,6 +37,7 @@ type | description |
  |Depend :heavy_minus_sign:| 의존성 삭제 |
  |Test :white_check_mark:| 테스트 작업 |
  |Rename :card_file_box:| 파일, 폴더명 수정 |
+ |Move :truck:| 파일, 폴더 경로 변경 |
  |Remove :wastebasket:| 파일 삭제 |
  |Chore :technologist:| 기타 사소한 작업 |
  |Conf 🔧:| 설정 파일 작업 |
