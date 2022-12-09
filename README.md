@@ -41,6 +41,8 @@ type | description |
  |Remove :wastebasket:| 파일 삭제 |
  |Chore :technologist:| 기타 사소한 작업 |
  |Conf 🔧:| 설정 파일 작업 |
+ |DB :card_file_box::| DB 관련 작업 |
+ 
  
  
 **ex)**<br />
