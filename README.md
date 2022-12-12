@@ -40,6 +40,7 @@ type | description |
  |Move :truck:| 파일, 폴더 경로 변경 |
  |Remove :wastebasket:| 파일 삭제 |
  |Chore :technologist:| 기타 사소한 작업 |
+ |Chore :tada: | 새로운 프로젝트 시작 |
  |Conf 🔧:| 설정 파일 작업 |
  |DB :card_file_box::| DB 관련 작업 |
  
