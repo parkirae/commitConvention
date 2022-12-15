@@ -32,7 +32,7 @@ type | description |
  |Design 💄| 디자인 변경 |
  |Style :pencil2:| 사소한 코드 변경 |
  |BREAKING :zap:| 커다란 API 변경 |
- |Refactor 🔨| 리팩토링 |
+ |Refactor :recycle:| 리팩토링 |
  |Depend :heavy_plus_sign:| 의존성 추가 |
  |Depend :heavy_minus_sign:| 의존성 삭제 |
  |Test :white_check_mark:| 테스트 작업 |
