@@ -32,11 +32,19 @@ type | description |
  |Design 💄| 디자인 변경 |
  |Style :pencil2:| 사소한 코드 변경 |
  |BREAKING :zap:| 커다란 API 변경 |
- |Refactor 🔨| 리팩토링 |
- |Test :monocle_face:| 테스트 작업 |
+ |Refactor :recycle:| 리팩토링 |
+ |Depend :heavy_plus_sign:| 의존성 추가 |
+ |Depend :heavy_minus_sign:| 의존성 삭제 |
+ |Test :white_check_mark:| 테스트 작업 |
  |Rename :card_file_box:| 파일, 폴더명 수정 |
+ |Move :truck:| 파일, 폴더 경로 변경 |
  |Remove :wastebasket:| 파일 삭제 |
  |Chore :technologist:| 기타 사소한 작업 |
+ |Chore :tada: | 새로운 프로젝트 시작 |
+ |Conf 🔧:| 설정 파일 작업 |
+ |DB :card_file_box::| DB 관련 작업 |
+ 
+ 
  
 **ex)**<br />
 Feat 🎨: TodoController create 기능 구현
